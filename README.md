@@ -1,2 +1,2 @@
 # golBarber
-Aplicação de barearia feita com nodeJS, express e nunjucks
+Aplicação de barbearia feita com nodeJS, express e nunjucks
